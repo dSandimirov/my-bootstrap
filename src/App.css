@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+
+.col-md-2{
+  background: #61dafb;
+}
+.row{
+  --bs-gutter-x: 0rem;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+  text-decoration: none;
+  color: white;
+}
+button {
+  margin: 5px;
+}
+#form {
+  box-shadow: 3px 3px 10px 10px aqua;
+  border-radius: 10px;
+  border: 1px solid aqua;
+  width: 500px;
+  padding: 10px;
+}
+#divForm{
+  text-align: center;
+  margin-top: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
